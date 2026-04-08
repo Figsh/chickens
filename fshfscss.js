@@ -1,4 +1,4 @@
-import { exec } from "https://cdn.jsdelivr.net/npm/fscss@1.1.11/e/xfscss.min.js";
+import { exec } from "https://cdn.jsdelivr.net/npm/fscss@1.1.24/e/xfscss.min.js";
 
   const DEBUG = true;
 
